@@ -80,8 +80,12 @@ Used the twitter API to grab random tweets, and display an image reflecting trum
 
 Adds sentiment analysis to articles alongside live stock charts within Thomson Reuter’s Eikon app. The app was in new release and the documentation and API weren’t quite there, so the final app is more of a mock-up that ran within the suite.
 
+> Javascript
+
 ---
 
 ## okbrb
 
 Made this website using [Hugo](https://gohugo.io/), and deployed it serverless via [Netlify](https://www.netlify.com/). This site uses the [Sam theme](https://github.com/vickylai/hugo-theme-sam).
+
+> Hugo | Netlify
