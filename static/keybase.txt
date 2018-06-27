@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/grandnewbien
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://okbrb.com
+  * I am grandnewbien (https://keybase.io/grandnewbien) on keybase.
+  * I have a public key with fingerprint 6D54 F8EB D1EF FC99 A336  5895 66DE 3E24 BAE4 60A1
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "010166203b1393f41017b1f18766caec40bd02a18f51c735c36c2a2ccb8f2c75ef890a",
+      "fingerprint": "6d54f8ebd1effc99a336589566de3e24bae460a1",
+      "host": "keybase.io",
+      "key_id": "66de3e24bae460a1",
+      "kid": "010166203b1393f41017b1f18766caec40bd02a18f51c735c36c2a2ccb8f2c75ef890a",
+      "uid": "b433909e9f67e84ea4cbd14ed126af19",
+      "username": "grandnewbien"
+    },
+    "service": {
+      "hostname": "okbrb.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1524110804,
+  "expire_in": 157680000,
+  "prev": "4dfa7c071a6d7b9c2369797c4b7a3951238d6af030e20b6d4ee795a6ba607fc6",
+  "seqno": 7,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.76
+Comment: https://keybase.io/crypto
+
+yMItAnicrVJZSFVBGL6WWalZt82KkjotQojNnGXmnBtlTxEWRBBeWugyM2fO7aCe
+cz33XpeigoKkaKE9sB5MIQxBbbEgqGylAqUVW203MDBCosWWOVJvPTYvw//P933z
+fT//1RGDA+kp7UW9U85Vb29Oud12OBlY2Tnu/nqJumaVFFovFfOBi5eYPJ6IFNum
+FJIABBAhGSgUKoZiqaLEFFpQxwgxwpkKqAlkAnVLgwwrGlMQk4nMGNUtmWGNW7oB
+iJQnWbYT5V7Ms52EkEWmplo6pybklsUMgygK0nRDQ8jkCpdVSriKAIGCuNaN+wxh
+jpI4z7dd0RNFZMDeP/D/2XdyQI6qimIAgxsWwlxXOVGZ8K5yE8qIWNDwgXHuOaSU
+C3TUI47p8Apqc0fakCeJl3KbcX+4fpo/KLeYejSfuaWCHPPchMvcEtFem0jE4iGf
+lqiK+bgKTiN/FCLUdkwxSMEo517cdh0pBAWSJWxfEmqyCiHQgZon8cqY7fGI7SM0
+jHQgjv8PLxeSqmkRzACGBJmYGkxWkIENzFSKiWJoUFZ0U+QCCuAyoMhUOceGRhAl
+CGCLIcnPVOa4UggLmyQqJON21CGJpMelDZcvrU4NpKQH0oYM8hcskD581N+1q44P
+/VX4rLHpAuibcDG1sCZYUDdl4YnOSe0N7qzHNz7D6TVKb3VFzrxgQXZlbTi7b9n3
+rW9y1/Ufm/l+0bmjE1+3Hnau7xsWLO0KfuuYvFM/f+3g3XvpreM/rco686IhqgxK
+ru7O+HLHqX+4PDx26OzmYbs3H+qWTs1p/pH5sOlaG8wh+5umtp083lf/qGXT/fkz
+Pvd0JDvNXWefbOtPW3xletrN3NRb2XvL1C0lRb2H3mZ+rS3b+rphcvvHaa+WzcBr
+9rfsqZ+VteDU3B01czd+mF9woCFj3ph3R/ateI5vZy+t+ZI7es860spa6hq/d8DZ
+D6rVcGbYW9J0OvIyPLZS6zoz6Wnw58hpPWt+A9rNRHU=
+=Gy0d
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/grandnewbien
+
+==================================================================
