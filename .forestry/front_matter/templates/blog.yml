@@ -6,3 +6,5 @@ fields:
   config:
     color_format: Hex
   default: "#B32626"
+pages:
+- content/blog.md
