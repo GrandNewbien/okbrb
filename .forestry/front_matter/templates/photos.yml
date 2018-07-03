@@ -10,4 +10,5 @@ fields:
   name: tags
   label: Tags
 pages:
+- content/blog.md
 - content/photos.md
