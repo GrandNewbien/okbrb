@@ -1,0 +1,11 @@
+---
+hide_body: false
+is_partial: false
+fields:
+- type: file
+  label: Photo
+  name: photo
+  description: Select a photo to add
+- type: tag_list
+  name: tags
+  label: Tags
