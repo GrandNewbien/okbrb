@@ -13,3 +13,4 @@ fields:
   label: tags
 pages:
 - content/blog.md
+- content/blog/swag.md
