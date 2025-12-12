@@ -1,30 +1,70 @@
-baseurl                 = "/"               # Your domain name. Must end with "/"
-languageCode            = "en-ca"
-title                   = "Okbrb"
-theme                   = "hugo-theme-sam"
-pygmentsStyle           = "manni"                     # https://help.farbox.com/pygments.html
-pygmentsCodefences      = true
-googleAnalytics         = "UA-121423954-1"             # Tracking code, eg. "UA-111111111-1"
+baseurl      = "okbrb.com"
+title        = "okbrb"
+languageCode = "en-us"
+theme        = "hello-friend-ng"
+pagination.pagerSize     = 10
 
 [params]
-    dateform            = "Mon Jan 02, 2006"
-    dateformfull        = "Mon Jan 2 2006 15:04:05 EST"
-    favicon             = "/favicon.ico"
-    homepage            = "main"                        # What to call the home page link
-    galleryFolder       = "images/"                     # Where you've put your images, after "/content/gallery/"
-    clickablePhotos     = true                          # Allow links to the full size images
-    footerText          = "okbrb 2018"
+  dateform        = "Jan 2, 2006"
+  dateformShort   = "Jan 2"
+  dateformNum     = "2006-01-02"
+  dateformNumTime = "2006-01-02 15:04"
 
-# Metadata
-    description         = "Tej Sahota's personal website."            # Max 160 characters show in search results
-    twitterCard         = "summary_large_image"         # Card value “summary”, “summary_large_image”, “app”, or “player”
-    primaryImage        = "/tn.png"                     # Image that shows on Twitter cards and OpenGraph links
+  # Subtitle for home
+  homeSubtitle = "Maker"
 
-[[params.mainMenu]]
-    link = "/projects"
-    text = "projects"
+  # Set disableReadOtherPosts to true in order to hide the links to other posts.
+  disableReadOtherPosts = false
 
-[[params.mainMenu]]
-    link = "/about"
-    text = "about"
-    
+  # Enable sharing buttons, if you like
+  enableSharingButtons = true
+  
+  # Show a global language switcher in the navigation bar
+  enableGlobalLanguageMenu = true
+
+  # Metadata mostly used in document's head
+  description = "My new homepage or blog"
+  keywords = "homepage, blog"
+  images = [""]
+
+[taxonomies]
+    category = "blog"
+    tag      = "tags"
+    series   = "series"
+
+[languages]
+  [languages.en]
+    title = "Hello Friend NG"
+    keywords = ""
+    copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
+    readOtherPosts = "Read other posts"
+
+  [languages.en.params]
+    subtitle  = "A simple theme for Hugo"
+
+    [languages.en.params.logo]
+      logoText = "hello friend ng"
+      logoHomeLink = "/"
+    # or
+    #
+    # path = "/img/your-example-logo.svg"
+    # alt = "Your example logo alt text"
+
+  # And you can even create generic menu
+  [[menu.main]]
+    identifier = "blog"
+    name       = "Blog"
+    url        = "/posts"
+
+  # and submenus
+  [[menu.main]]
+    identifier  = "parent"
+    name        = "Parent"
+    url         = "/parent"
+    hasChildren = true
+
+  [[menu.main]]
+    identifier  = "child"
+    name        = "Child"
+    url         = "/parent/child"
+    parent      = "parent"
