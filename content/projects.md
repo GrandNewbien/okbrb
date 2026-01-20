@@ -86,6 +86,6 @@ Adds sentiment analysis to articles alongside live stock charts within Thomson R
 
 ## okbrb
 
-Made this website using [Hugo](https://gohugo.io/), and deployed it serverless via [Netlify](https://www.netlify.com/). This site uses the [Sam theme](https://github.com/vickylai/hugo-theme-sam).
+Made this website using [Hugo](https://gohugo.io/), and deployed it serverless via [Cloudflare](https://www.cloudflare.com/). This site uses the [hello-friend-ng theme](https://github.com/rhazdon/hugo-theme-hello-friend-ng).
 
-> Hugo | Netlify
+> Hugo | Cloudflare Pages

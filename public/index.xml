@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tejpal Sahota</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Tejpal Sahota</description>
+    <generator>Hugo</generator>
+    <language>en-ca</language>
+    <copyright>Automation Toronto</copyright>
+    <lastBuildDate>Tue, 10 Jul 2018 00:25:33 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Swag</title>
+      <link>http://localhost:1313/blog/2018/07/swag/</link>
+      <pubDate>Tue, 10 Jul 2018 00:25:33 -0400</pubDate>
+      <guid>http://localhost:1313/blog/2018/07/swag/</guid>
+      <description>&lt;p&gt;This is a test of the blog&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Projects</title>
+      <link>http://localhost:1313/projects/</link>
+      <pubDate>Mon, 25 Jun 2018 22:26:10 -0400</pubDate>
+      <guid>http://localhost:1313/projects/</guid>
+      <description>&lt;h2 id=&#34;corporatecoin&#34;&gt;CorporateCoin&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://devpost.com/software/corporatecoin&#34;&gt;Devpost&lt;/a&gt; - &lt;a href=&#34;https://github.com/GrandNewbien/cutc-deloitte&#34;&gt;Github&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Our second place entry for the Deloitte Multi-Party Aggregation on the Blockchain case competition.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Python | Flask | MultiChain | BlockChain&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;word-clock&#34;&gt;Word Clock&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/GrandNewbien/arduino-projects/tree/master/wordclock&#34;&gt;Github&lt;/a&gt; - &lt;a href=&#34;https://www.youtube.com/watch?v=ZXcq5jZzuVY&#34;&gt;YouTube&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Made a clock for my girlfriends parents to commemorate their 25th anniversary. Designed in Illustrator and AutoCAD and cut at &lt;a href=&#34;https://uwaterloo.ca/mechanical-mechatronics-engineering/resources-and-services/mme-clinic/watimake&#34;&gt;WatiMake&lt;/a&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Arduino | FastLED | Illustrator | AutoCAD&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;moviedb&#34;&gt;MovieDB&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://localhost:1313/lumdb&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;A simple react app with animated transition elements.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;React 16 | TMDB&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;bloomberg-code-b---here_for_beer&#34;&gt;Bloomberg Code B - Here_for_Beer&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/siddharth-ramesh/Bloomberg_Hackathon_java&#34;&gt;Github&lt;/a&gt; - &lt;a href=&#34;http://localhost:1313/img/bloomberg.jpg&#34;&gt;Image&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 25 Jun 2018 22:17:51 -0400</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;Hey there, I’m &lt;a href=&#34;https://keybase.io/grandnewbien&#34;&gt;Tejpal Sahota&lt;/a&gt;. You&amp;rsquo;ll probably find me working on &lt;a href=&#34;https://automationtoronto.com/&#34;&gt;Automation Toronto&lt;/a&gt;, but I&amp;rsquo;m always free to chat, so shoot me a message anytime on &lt;a href=&#34;https://www.linkedin.com/in/tsahota/&#34;&gt;LinkedIn&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

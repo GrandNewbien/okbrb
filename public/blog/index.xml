@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on Tejpal Sahota</title>
+    <link>http://localhost:1313/blog/</link>
+    <description>Recent content in Blogs on Tejpal Sahota</description>
+    <generator>Hugo</generator>
+    <language>en-ca</language>
+    <copyright>Automation Toronto</copyright>
+    <lastBuildDate>Tue, 10 Jul 2018 00:25:33 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Swag</title>
+      <link>http://localhost:1313/blog/2018/07/swag/</link>
+      <pubDate>Tue, 10 Jul 2018 00:25:33 -0400</pubDate>
+      <guid>http://localhost:1313/blog/2018/07/swag/</guid>
+      <description>&lt;p&gt;This is a test of the blog&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
